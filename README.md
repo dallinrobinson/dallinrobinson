@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/dallinrobinson)  
+- [LinkedIn](https://www.linkedin.com/in/dallin-robinson)  
 - [GitHub Projects](https://github.com/dallinrobinson?tab=repositories)  
 
 ---
