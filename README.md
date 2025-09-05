@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Dallin 👋
 
-<!--
-**dallinrobinson/dallinrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Statistics Major @ BYU (minors in Math & Business)  
+📊 Aspiring Data Scientist / Business Analyst
+🌎 Bilingual (English & Spanish) | Passionate about bridging data + business strategy  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm Working On
+- Building recommender systems & ML models (PyTorch, scikit-learn)  
+- Research on Local CorEx for interpretable machine learning  
+- Data pipelines & automation at ON24 (SQL, Python, GPT-4o)   
+
+---
+
+## 🌱 Currently Learning
+- Advanced machine learning 
+- Bayesian methods for business applications  
+- Best practices for reproducible workflows (uv, Quarto, GitHub Actions)  
+
+---
+
+## ⚡ Skills
+- **Programming:** Python (pandas, scikit-learn, PyTorch), R, SQL  
+- **Tools:** VS Code, Git/GitHub, Quarto, Jupyter, RStudio  
+- **Data Science:** Regression, Bayesian analysis, Recommender systems, Data visualization  
+
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/dallinrobinson)  
+- [GitHub Projects](https://github.com/dallinrobinson?tab=repositories)  
+
+---
+
+💡 Always excited to collaborate on projects that connect data, business, and real-world decision-making!
